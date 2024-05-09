@@ -1,1 +1,1 @@
-# proxy.github.io
+# proxy
